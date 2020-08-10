@@ -1,5 +1,7 @@
 # Smartphone-Bag-Clip
 
+
+
 ### **Descripción**
 
 
@@ -12,7 +14,7 @@ Mencionar que este es un proyecto en desarrollo por lo que cualquier sugerencia 
 El sistema de protección está compuesto por dos partes:
 
 - Clip de bolsa impreso en 3D.
-- Bolsa plástica transparente
+- Bolsa plástica transparente.
 
 #### **Clip de bolsa impreso en 3D**
 
@@ -83,7 +85,9 @@ https://es.aliexpress.com/item/33049534269.html
 
 <img src="/Imagenes/8.jpg"   width="700"/>  
 
-7. La pieza cuenta con una pestaña lateral, la cual sirve para colgar el dispositivo en un bolsillo.
+7. Cuando deje de usar el smarphone cuélguelo del bolsillo de su pantalón con ayuda de la pestaña. 
+
+<img src="/Imagenes/Pestaña.JPG"   width="500"/>  
 
 8. Si se raya/rompe la bolsa por el uso, debe cambiarla, siguiendo las recomendaciones de uso e higiene.
 
