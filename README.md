@@ -14,5 +14,4 @@ El sistema de protección está compuesto por dos partes:
 
 #### **Clip de bolsa impreso en 3D**
 
-<img src="/Imagenes/Clip1.jpg" alt="Clip1"
-	title="Clip1" width="600" />
+![Clip](https://github.com/PipexD17/Smartphone-Bag-Clip/blob/master/Imagenes/Clip1.JPG?raw=true)
